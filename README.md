@@ -1,3 +1,4 @@
+<<<<<<< refs/remotes/origin/feature-07
 # vinyl-disc
 Vinyl record is an application for donation or exchange of vinyl record, on this platform it is possible, through an asynchronous contact, to contact the user who posted the object for exchange or donation
 
@@ -51,3 +52,7 @@ O frontend da aplicação será desenvolvido com Angular e o backend será simul
   - Por padrão, a aplicação JSON Server executa no endereço `localhost:3000`    
 - Abrir um novo terminal pelo VSCode e então executar o projeto Angular
   - Comando: `ng s -o`
+=======
+# vinil-disc
+Vinyl record is an application for donation or exchange of vinyl record, on this platform it is possible, through an asynchronous contact, to contact the user who posted the object for exchange or donation
+>>>>>>> Initial commit
