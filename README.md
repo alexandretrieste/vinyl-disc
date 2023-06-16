@@ -1,4 +1,4 @@
-# vinil-disc
+# vinyl-disc
 Vinyl record is an application for donation or exchange of vinyl record, on this platform it is possible, through an asynchronous contact, to contact the user who posted the object for exchange or donation
 
 Este projeto tem como objetivo implementar progressivamente e de forma didática uma aplicação web de trocas ou doações de Vinil entre os amantes dessa mídia
