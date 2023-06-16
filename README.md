@@ -1,34 +1,22 @@
-# vinil-disc
+# vinyl-disc
 Vinyl record is an application for donation or exchange of vinyl record, on this platform it is possible, through an asynchronous contact, to contact the user who posted the object for exchange or donation
 
-<<<<<<< HEAD
 Este projeto tem como objetivo implementar progressivamente e de forma didática uma aplicação web de trocas ou doações de Vinil entre os amantes dessa mídia
-=======
-Este projeto tem como objetivo implementar progressivamente e de forma didática uma aplicação web de trocas ou doações de Vinil entre os amantes dessa mídia.
->>>>>>> feature-07
 
 O frontend da aplicação será desenvolvido com Angular e o backend será simulado pela implementação de uma API Fake, usando o JSON Server.
 
 ## Endereço de Deploy - GitHub Pages
 
-<<<<<<< HEAD
-https://utfpr-gp.github.io/roubank-app/
-
-## Protótipo
-
-[https://www.figma.com/file/a1VDbO1aNfZyulQPxT99OE/beleza-em-dia?node-id=3%3A80](https://www.figma.com/file/quXZvQKO7GieusjYNpu3pN/Vinil-disc?type=design&node-id=1-3&t=6OFoePoFIvDZKSi4-0)
-=======
-[Visite o projeto](https://alexandretrieste.github.io/vinil-disc/)
+[Visite o projeto](https://alexandretrieste.github.io/vinyl-disc/)
 
 ## Protótipo
 
 [Veja o protótipo](https://www.figma.com/file/quXZvQKO7GieusjYNpu3pN/Vinil-disc?type=design&node-id=1-3&t=6OFoePoFIvDZKSi4-0)
->>>>>>> feature-07
 
 ## Checklist
 
 - [x] Criar o repositório no GitHub com a estrutura do Gitflow, ou seja, branches main e develop.
-- [ ] Usar componentes de algum framework CSS (Bootstrap, Materialize ou outro)
+- [x] Usar componentes de algum framework CSS (Bootstrap, Materialize ou outro)
 - [ ] Apresentar as telas com layout responsivo usando ou não algum framework CSS.
 - [ ] Construir páginas web com o conceito de componentes.
 - [ ] Criar o layout da aplicação com componentes, ou seja, o cabeçalho e rodapé precisam ser componentes.
