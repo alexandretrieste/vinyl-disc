@@ -7,11 +7,11 @@ O frontend da aplicação será desenvolvido com Angular e o backend será simul
 
 ## Endereço de Deploy - GitHub Pages
 
-https://utfpr-gp.github.io/roubank-app/
+[Visite o projeto](https://alexandretrieste.github.io/vinil-disc/)
 
 ## Protótipo
 
-[https://www.figma.com/file/a1VDbO1aNfZyulQPxT99OE/beleza-em-dia?node-id=3%3A80](https://www.figma.com/file/quXZvQKO7GieusjYNpu3pN/Vinil-disc?type=design&node-id=1-3&t=6OFoePoFIvDZKSi4-0)
+[Veja o protótipo](https://www.figma.com/file/quXZvQKO7GieusjYNpu3pN/Vinil-disc?type=design&node-id=1-3&t=6OFoePoFIvDZKSi4-0)
 
 ## Checklist
 
