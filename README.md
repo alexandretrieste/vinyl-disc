@@ -1,4 +1,7 @@
 <<<<<<< refs/remotes/origin/feature-07
+<<<<<<< refs/remotes/origin/feature-07
+=======
+>>>>>>> Merge branch 'feature-07' into development
 # vinyl-disc
 Vinyl record is an application for donation or exchange of vinyl record, on this platform it is possible, through an asynchronous contact, to contact the user who posted the object for exchange or donation
 
@@ -8,7 +11,13 @@ O frontend da aplicação será desenvolvido com Angular e o backend será simul
 
 ## Endereço de Deploy - GitHub Pages
 
+<<<<<<< refs/remotes/origin/feature-07
 [Visite o projeto](https://alexandretrieste.github.io/vinyl-disc/)
+=======
+<<<<<<< development
+<<<<<<< HEAD
+https://utfpr-gp.github.io/roubank-app/
+>>>>>>> Merge branch 'feature-07' into development
 
 ## Protótipo
 
@@ -58,6 +67,7 @@ Vinyl record is an application for donation or exchange of vinyl record, on this
 <<<<<<< refs/remotes/origin/feature-07
 >>>>>>> Initial commit
 =======
+<<<<<<< refs/remotes/origin/feature-07
 
 Este projeto tem como objetivo implementar progressivamente e de forma didática uma aplicação web de trocas ou doações de Vinil entre os amantes dessa mídia
 
@@ -66,6 +76,12 @@ O frontend da aplicação será desenvolvido com Angular e o backend será simul
 ## Endereço de Deploy - GitHub Pages
 
 https://utfpr-gp.github.io/roubank-app/
+=======
+[Visite o projeto](https://alexandretrieste.github.io/vinil-disc/)
+=======
+[Visite o projeto](https://alexandretrieste.github.io/vinyl-disc/)
+>>>>>>> Merge branch 'feature-07' into development
+>>>>>>> Merge branch 'feature-07' into development
 
 ## Protótipo
 
