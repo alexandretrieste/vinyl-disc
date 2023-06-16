@@ -7,7 +7,7 @@ O frontend da aplicação será desenvolvido com Angular e o backend será simul
 
 ## Endereço de Deploy - GitHub Pages
 
-[Visite o projeto](https://alexandretrieste.github.io/vinil-disc/)
+[Visite o projeto](https://alexandretrieste.github.io/vinyl-disc/)
 
 ## Protótipo
 
