@@ -1,11 +1,5 @@
-<div class="login-wrapper">
-  <form>
-    <input type="text" class="form-control" id="username" placeholder="nome de usuário ou email">
-    <input type="password" class="form-control" id="password" placeholder="senha">
-    <a [routerLink]="['/recover-password']" class="forgot-password">Esqueci minha senha</a>
-    <button class="login-btn">Login</button>
-  </form>
-  <div class="signup">
-    <p>Ainda não possui uma conta? <a [routerLink]="['/signup']" class="signup-link">Cadastre-se</a></p>
-  </div>
-</div>
+<form>
+  <input [(ngModel)]="username" type="text" class="form-control" id="username" placeholder="nome de usuário ou email">
+  <input [(ngModel)]="password" type="password" class="form-control" id="password" placeholder="senha">
+  <button (click)="login()" class="login-btn">Login</button>
+</form>
